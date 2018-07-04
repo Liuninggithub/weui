@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/button/button",
+    "pages/input/input",
+    "pages/list/list",
+    "pages/slider/slider",
+    "pages/uploader/uploader",
+    "pages/article/article",
+    "pages/badge/badge",
+    "pages/flex/flex",
+    "pages/footer/footer",
+    "pages/gallery/gallery",
+    "pages/grid/grid",
+    "pages/icons/icons",
+    "pages/loadmore/loadmore",
+    "pages/panel/panel",
+    "pages/preview/preview",
+    "pages/progress/progress",
+    "pages/actionsheet/actionsheet",
+    "pages/dialog/dialog",
+    "pages/msg/msg",
+    "pages/msg/msg_fail",
+    "pages/msg/msg_success",
+    "pages/picker/picker",
+    "pages/toast/toast",
+    "pages/navbar/navbar",
+    "pages/tabbar/tabbar",
+    "pages/searchbar/searchbar"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "WeUI for 小程序",
+    "navigationBarBackgroundColor": "#f8f8f8",
+    "backgroundColor": "#f8f8f8"
+  }
+}
